@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+}
+/* Style with tag name*/
+p{
+    color: blue;
+    font-size: 23px;
+}
+/*Stylw eith id name*/
+#ndp{
+    color: red;
+    font-size: 30px;
+}
+/*Style with class name*/
+.myclass{
+    color: aqua;
+    font-size: 15px;
+}
