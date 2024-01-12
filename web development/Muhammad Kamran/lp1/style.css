@@ -32,6 +32,13 @@ body{
     
 
 }
+.form .form-box.regester{
+    left: 0;
+    padding: 0 10px;
+
+}
+
+
 .form-box h2{
     font-size: 32px;
     color: white;
@@ -179,7 +186,7 @@ body{
 .form .bg-animation{
     position: absolute;
     top: 0;
-    left: 0;
+    right: 0;
     width: 800px;
     height: 600px;
     background: linear-gradient(45deg, #081b29, #0ef);
@@ -188,3 +195,6 @@ body{
     transform-origin: bottom right;
 
 }
+
+
+
